@@ -1,0 +1,6 @@
+C:\Users\Jason Moon\source\repos\LB-№1\LB-№1\bin\Debug\LB-№1.exe.config
+C:\Users\Jason Moon\source\repos\LB-№1\LB-№1\bin\Debug\LB-№1.exe
+C:\Users\Jason Moon\source\repos\LB-№1\LB-№1\bin\Debug\LB-№1.pdb
+C:\Users\Jason Moon\source\repos\LB-№1\LB-№1\obj\Debug\LB-№1.csprojAssemblyReference.cache
+C:\Users\Jason Moon\source\repos\LB-№1\LB-№1\obj\Debug\LB-№1.exe
+C:\Users\Jason Moon\source\repos\LB-№1\LB-№1\obj\Debug\LB-№1.pdb
